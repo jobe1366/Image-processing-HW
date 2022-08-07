@@ -10,6 +10,9 @@
 
 ### :question: The ground-truth.xlsx and detections.xlsx files specify the reference rectangles and detected rectangles for an image, respectively. For this, calculate AP75, AP50 and AP25.( you are not allowed to use ready-made codes)
 
+
+
+
 *result for AP=0.25
 
 ![](pic/AP_0.25.PNG)
