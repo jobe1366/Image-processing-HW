@@ -1,4 +1,4 @@
-##  :dart: Digital Image Processing - IUST - Fall 2021
+##  :dart: Digital Image Processing and deep learning - IUST - Fall 2021
 The assignments of Digital Image Processing course taught by [Dr. Mohammadi](http://webpages.iust.ac.ir/mrmohammadi/index.html) at [Iran Science and Technology University](http://iust.ac.ir)
 
 ![](Digital%20Image%20Processing.PNG)
