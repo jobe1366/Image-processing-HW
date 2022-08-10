@@ -9,6 +9,9 @@ I have used many contents from different websites which I have not referenced! I
 
 #### references
 [1] R. C. Gonzalez and R. E. Woods, “Digital Image Processing (4th Edition)”.
+
 [2] J. C. Russ, F. B. Neal, “The Image Processing Handbook (7th Edition)”.
+
 [3] M. Petrou, C. Petrou, “Image Processing: The Fundamentals”.
+
 [4] J. Minichino and J. Howse “Learning OpenCV 4 Computer Vision with Python 3”.
