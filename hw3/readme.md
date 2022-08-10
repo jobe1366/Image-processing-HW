@@ -1,4 +1,4 @@
-#### :Question: #2: Consider image 1.bmp and calculate the following :
+#### :question: #2: Consider image 1.bmp and calculate the following :
 
 ![](pic/1.bmp)
 
