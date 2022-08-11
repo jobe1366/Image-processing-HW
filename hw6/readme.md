@@ -4,11 +4,11 @@
 
 ### :question: Convert the image to binary using 
 
-####(2-1)(2-2): using global_Thresholding and OTSU_Thresholding
+#### (2-1)(2-2): using global_Thresholding and OTSU_Thresholding
 
 ![](pic/OTSU-GLOBAL-thresholding.PNG)
 
-####(2-3). using Adaptive Thresholding
+#### (2-3): using Adaptive Thresholding
 
 ![](pic/adaptive_thresholding.PNG)
 
