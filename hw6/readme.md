@@ -2,7 +2,7 @@
 
 ![](pic/morphology%20operation.PNG)
 
-### :question: #2: Convert the image to binary using 
+### :question: Convert the image to binary using 
 
 ####(2-1)(2-2): using global_Thresholding and OTSU_Thresholding
 
