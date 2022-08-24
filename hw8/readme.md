@@ -1,4 +1,6 @@
-### :dart: implementing classification and localization on [CARS](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) dataset.
+
+### :dart: _implementing classification and localization on [CARS](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) dataset._
+---
 
 #### step # 0 : Download Dataset and preprocessing 
 
