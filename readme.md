@@ -2,7 +2,7 @@
 ##  :dart: _*Digital Image Processing and Deep Learning - IUST - Fall 2021*_
 ---
 
-_The assignments and projects of Digital Image Processing course taught by [Dr. Mohammadi](http://webpages.iust.ac.ir/mrmohammadi/index.html "Dr. Mohammadi") at [Iran Science and Technology University](http://iust.ac.ir "Iran Science and Technology University")_
+_The assignments and projects of Digital Image Processing course at [Iran Science and Technology University](http://iust.ac.ir "Iran Science and Technology University")_
 
 
 
@@ -32,3 +32,4 @@ _I have used many contents from different websites which I have not referenced! 
 [3] M. Petrou, C. Petrou, “Image Processing: The Fundamentals”.
 
 [4] J. Minichino and J. Howse “Learning OpenCV 4 Computer Vision with Python 3”.
+
